@@ -5,7 +5,7 @@ ModelList
 
 Script listing models and MODELS/model__.yml files on the radio.
 
-![FullScreen battery selection](doc-img_BU/fullscr-showlog-A.png)
+![FullScreen battery selection](media/ModelList.png)
 
 ## Installation
 
