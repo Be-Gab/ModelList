@@ -1,11 +1,11 @@
 # ModelList
-ModelList
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z2S529OZQP)
 
 Script listing models and MODELS/model__.yml files on the radio.
 
-![FullScreen battery selection](media/ModelList.png)
+![Model List on the screen](media/ModelList.png)
 
 ## Installation
 
